@@ -1,0 +1,7 @@
+name = "base-redirect"
+type = "javascript"
+
+account_id = "Your account id"
+workers_dev = true
+route = ""
+zone_id = ""
